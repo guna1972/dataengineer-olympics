@@ -1,0 +1,9 @@
+{
+	"name": "olympics2020azdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "791ec120-3d05-409d-a23d-3feced2adc43",
+		"tenantId": "5c46d65d-ee5c-4513-8cd4-af98d15e6833"
+	}
+}
